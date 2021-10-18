@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="bottom"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+   >
+
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="120dp"
+        android:src="@drawable/circleicon"
+        android:id="@+id/bgimage"
+        android:layout_margin="10dp"
+        android:adjustViewBounds="true"
+        android:layout_height="120dp" />
+
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="230dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="afwefwefwer"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447448651446",
+    "project_id": "fitness-app-e2e2e",
+    "storage_bucket": "fitness-app-e2e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447448651446:android:6bde3078f5af1ec2d7f817",
+        "android_client_info": {
+          "package_name": "com.madfitness.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447448651446-hloedjoms6vschhthk8sqn1qcgh4134r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMshHSRKKJMTAAV9H3KNvVdVsnfWagHIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447448651446-hloedjoms6vschhthk8sqn1qcgh4134r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
